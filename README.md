@@ -28,6 +28,11 @@ sudo apt-get install python3-tk
 ```
 ## GETTING STARTED
 
+Save the model:
+```
+model.save("model1_catsVSdogs_10epoch.h5")
+```
+
 Create a new directory, copy your model (`model1_catsVSdogs_10epoch.h5`) to the same directory.
 
 Save the `gui.py` file and run :
