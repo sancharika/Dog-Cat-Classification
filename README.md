@@ -37,4 +37,4 @@ python3 gui.py
 
 ![gif](dogvscat.gif)
 
-[Special Thanks](https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/)
+[Thanks You !](https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/)
