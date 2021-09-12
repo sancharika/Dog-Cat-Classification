@@ -1,7 +1,6 @@
 # Dog-Cat-Classification
 Cats vs Dogs Classification (with 98.7% Accuracy) using CNN Keras 
 
-
 Dataset Used : [Dogs-VS-Cat](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 # The Asirra (Dogs VS Cats) dataset:
